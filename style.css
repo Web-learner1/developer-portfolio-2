@@ -10,6 +10,9 @@ body{
 h1{
     font-size: 40px;
 }
+.header{
+    margin-left: 20px;
+}
 h2{
     font-size: 30px;
 }
@@ -47,8 +50,7 @@ p{
     text-decoration: none;
     color: white;
     background-image: linear-gradient(indigo, DarkViolet);
-    padding: 10px 30px;
-    
+    padding: 10px 30px;   
 }
 
 .link2{
@@ -69,6 +71,7 @@ p{
     margin-right: 5%;
     margin-left: 5%;
     padding-left: 35px;
+    padding-right: 10px;
 }
 footer{
     text-align: center;
